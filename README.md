@@ -1,1 +1,1 @@
-This program is written by python which calculate the compound interest.
+This program is written by python which calculates the compound interest.
